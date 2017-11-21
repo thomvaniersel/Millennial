@@ -15,7 +15,6 @@ menu:
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/...'}
 - {icon: 'facebook', link: 'https://www.facebook.com/...'}
 - {icon: 'instagram', link: 'https://instagram.com/...'}
 - {icon: 'envelope', link: 'mailto:...@gmail.com'}
